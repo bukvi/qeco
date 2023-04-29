@@ -715,6 +715,7 @@ p{
 
     .footer{
         background: #333;
+     display:block;
     }
     .footer .box-container{
         display: flex;
