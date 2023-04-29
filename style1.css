@@ -666,7 +666,7 @@ p{
 
 
   body{
-    height:760rem;
+    height:680rem;
     object-fit: contain;
   }  
   /*media queries*/
@@ -715,7 +715,10 @@ p{
 
     .footer{
         background: #333;
-     display:block;
+     position:static;
+     margin-bottom:0;
+     width:100%;
+     
     }
     .footer .box-container{
         display: flex;
