@@ -68,7 +68,7 @@ const question = [
 
    },
    {
-    question: "Antarctic animals are specially adapted to survive the cold, icy conditions of up to?",
+    question: "Antarctic animals are specially adapted to survive the cold, icy conditions and winds  up to?",
     answers:[
         { text:"200 km per hour",correct: true},
         { text:"300 km per hour",correct: false},
